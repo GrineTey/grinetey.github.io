@@ -32,5 +32,3 @@ Eu recomendo que sempre que você fizer todos esses comando siga com **git statu
 Calma ai, é somente você dar o comando **Git push origin master** pode ser que ele vai pedir seu login e sua senha do Github pra confirmação, depois se tudo der certo vc pode verificar no site do Github onde você criou o projeto que seus arquivos vão estar lá.
 
 Futuramente vou postar um tutorial de como fazer um pull request, e fork de projetos para fazer a contribuição dos projetos Open Source que existem no GitHub, ou mesmo contribuição com projetos da **Grine Tey.**
-
-![Git Github](https://images.pexels.com/photos/1181253/pexels-photo-1181253.jpeg?cs=srgb&dl=eyeglasses-in-front-of-laptop-computer-1181253.jpg&fm=jpg)
